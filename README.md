@@ -1,4 +1,4 @@
-# 📚 Kindle Unlimited & Prime Reading project
+# 📚 Kindle Unlimited & Prime Reading 
 
 ## 🔹 About the Projects
 **Kindle Unlimited (KU)** and **Prime Reading (PR)** are Amazon’s eBook subscription and lending services, giving readers access to a vast collection of digital books, magazines, and audiobooks.
